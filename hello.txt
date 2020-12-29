@@ -1,0 +1,1 @@
+Hey Deno Api's call from (readFileSync) method 
